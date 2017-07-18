@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/coordinates"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/your_coordinates"
+        />
+
+    <TextView
+        android:id="@+id/accuracy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/accuracy"
+        />
+
+    <TextView
+        android:id="@+id/location_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/location_time"
+        />
+
+    <CheckBox
+        android:id="@+id/harvesterAtWorkCb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/harvester_at_work"
+        android:onClick="onCheckboxClicked"
+        />
+
+    <CheckBox
+        android:id="@+id/lumberjacksAtWorkCb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lumberjacks_at_work"
+        android:onClick="onCheckboxClicked"
+        />
+
+    <CheckBox
+        android:id="@+id/forwarderAtWorkCb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/forwarder_at_work"
+        android:onClick="onCheckboxClicked"
+        />
+
+    <CheckBox
+        android:id="@+id/blockedRoadCb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/blocked_road"
+        android:onClick="onCheckboxClicked"
+        />
+
+    <Button
+        android:id="@+id/btn_send"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/send_alert"
+        android:onClick="onSendAlertClicked"
+        android:enabled="false"/>
+
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Alarmuj</string>
+    <string name="harvester_at_work">harvester at work</string>
+    <string name="lumberjacks_at_work">lumberjacks at work</string>
+    <string name="send_alert">Send alert!</string>
+    <string name="forwarder_at_work">forwarder at work</string>
+    <string name="blocked_road">blocked road</string>
+    <string name="your_coordinates">Your coordinates</string>
+    <string name="accuracy">Accuracy</string>
+    <string name="location_time">Location time</string>
+    <string name="unspecified_accuracy">unspecified</string>
+</resources>

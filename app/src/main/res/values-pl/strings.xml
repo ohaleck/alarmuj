@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Alarmuj</string>
+    <string name="harvester_at_work">pracujący harwester</string>
+    <string name="lumberjacks_at_work">pracujący pilarze</string>
+    <string name="send_alert">Alarmuj!</string>
+    <string name="forwarder_at_work">pracujący forwarder</string>
+    <string name="blocked_road">strażnicy leśni blokują drogę</string>
+    <string name="your_coordinates">Twoje współrzędne</string>
+    <string name="accuracy">Dokładność</string>
+    <string name="location_time">Czas odczytu</string>
+    <string name="unspecified_accuracy">nieokreślona</string>
+</resources>
