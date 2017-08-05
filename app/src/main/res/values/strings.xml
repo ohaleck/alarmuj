@@ -5,8 +5,19 @@
     <string name="send_alert">Send alert!</string>
     <string name="forwarder_at_work">forwarder at work</string>
     <string name="blocked_road">blocked road</string>
+    <string name="harvested_wood">harvested wood</string>
+    <string name="logging_site">site of earlier logging</string>
     <string name="your_coordinates">Your coordinates</string>
     <string name="accuracy">Accuracy</string>
     <string name="location_time">Location time</string>
     <string name="unspecified_accuracy">unspecified</string>
+    <string name="awaiting_location">Awaiting location...</string>
+    <string name="sending_reports">Sending reports...</string>
+    <string name="cancel_sending">Cancel sending report</string>
+    <string name="confirm_cancel_sending">Cancel sending report?</string>
+    <string name="no">No</string>
+    <string name="report_enqueued">Thanks! Your report has been saved and is going to be sent as soon as internet connection is detected.</string>
+    <string name="report_enqueueing_problem">There\'s been a problem saving your report. Please try again!</string>
+
+
 </resources>

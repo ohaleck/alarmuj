@@ -5,8 +5,19 @@
     <string name="send_alert">Alarmuj!</string>
     <string name="forwarder_at_work">pracujący forwarder</string>
     <string name="blocked_road">strażnicy leśni blokują drogę</string>
+    <string name="harvested_wood">drewno z wycinki</string>
+    <string name="logging_site">miejsce wcześniejszej wycinki</string>
     <string name="your_coordinates">Twoje współrzędne</string>
     <string name="accuracy">Dokładność</string>
     <string name="location_time">Czas odczytu</string>
     <string name="unspecified_accuracy">nieokreślona</string>
+    <string name="awaiting_location">Oczekiwanie na lokalizację...</string>
+    <string name="sending_reports">Wysyłanie zgłoszeń...</string>
+    <string name="cancel_sending">Anuluj wysyłkę zgłoszeń</string>
+    <string name="confirm_cancel_sending">Czy anulować wysyłkę zgłoszeń?</string>
+    <string name="no">Nie</string>
+    <string name="report_enqueued">Dziękujemy! Twoje zgłoszenie zostało zapisane i zostanie wysłane kiedy tylko nawiążemy połączenie internetowe.</string>
+    <string name="report_enqueueing_problem">Wystąpił problem podczas zapisywania Twojego zgłoszenia. Spróbuj ponownie!</string>
+
+
 </resources>
